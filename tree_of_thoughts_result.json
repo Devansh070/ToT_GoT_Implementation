@@ -1,0 +1,1382 @@
+[
+  {
+    "file": "train_papers\\R001.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A Statistical Analysis of Graphite in Relation to Cheese Consumption on Tuesday (December 7 - June 4) Using Graphite as a Base for Data Login.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A Statistical Analysis of Graphite in Relation to Cheese Consumption on Tuesday (December 7 - June 4) Uses Graphite as a Base for Data Login.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A review of the paper based on the text from the text is warranted",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A review of the paper based on the text from the text is warranted. Thought (score=1.00): A: Graphite: Graphite: Graphite as a base for data Login. Thought (score=1.00): A: Graphite: Graphite: Graphite: Graphite as a base for data Login. Thought (score=1.00): A: Graphite: Graphite: Graphite: Graphite as a base for data Login. Thought (score=1.00): A: Graphite: Graphite: Graphite: Graphite: Graphite as a base for data Login. Thought (score=1.00): A: Graphite: Graphite: Graphite: Graphite: Graphite as a base for data Login. Thought (score=1.00): A: Graphite: Graphite:",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Graphite is a product of Graphite, which is a chemical compound.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite:",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Graphite is a product of Graphite and is a chemical compound.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A review of the paper based on the text from the text is warranted.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A: Graphite: Graphite: Graphite: Graphite as a base for data Login.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite:",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Graphite is a product of Graphite, which is a chemical compound.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=0): Graphite is a product of Graphite, which is a chemical compound.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "A: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphite: Graphit",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Graphite analysis is an interdisciplinary study of Graphite and Graphite, which is a chemical compound.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R002.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A generalized analysis of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Physicists' observations of the two phenomena.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Physicists' observations of the two phenomena.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Molecular dynamics and the analysis of photons and photons.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The narrator proposes a synthesis of both chirality and equator, which suggests that their chiral distribution is asymmetrically different from the physicists' observations of the two phenomena.",
+                "score": 0.0,
+                "children": [
+                  {
+                    "content": "Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "The narrator proposes a synthesis of both chirality and equator, which suggests that their chiral distribution is asymmetrically different from the physicists' observations of the two phenomena.",
+            "score": 0.0,
+            "children": [
+              {
+                "content": "Subterranean fungal networks: analysis of photons and photons, and the observation of its chiral distribution.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A generalized analysis of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "In addition to a comprehensive analysis of atomic frequency and wavelength of a photon, the paper proposed a synthesis of both chirality and equator.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A generalized analysis of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle.",
+                    "score": 0.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1.00): Review of the atomic frequency and wavelength of a photon that is associated with the cell cycle. Thought (score=1",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R003.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "Initiative Analysis of Materials, Methods and Methods",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Initiative Analysis of Materials, Methods and Methods",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "A common approach for deciphering the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 3: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "A methodology for determining the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 3: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "A methodology for deciphering the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 3",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "A methodology for deciphering the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 3: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A methodology for determining the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 1: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "The characterization of materials, methods and methods of the various facets of metals has been examined by a large number of researchers.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Note: Review of the paper is considered for the first time.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought: Initial Analysis",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=0.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "A methodology for deciphering the Enigmatic Properties of Metals through a Critical Examination of Geometry Abstract Metamorphosis of Galv... Cycle 3: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials, Methods and Methods Thought (score=1.00): Initiative Analysis of Materials,",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R004.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "This paper is a paper on the influence of artificial intelligence on online education, and describes the process and impact of the implementation of artificial intelligence on online education.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Using an initial analysis of artificial intelligence, an initial analysis of artificial intelligence to enhance online education focuses on research on the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): Narratives of artificial intelligence are formulated in section 0: AI-Driven Personalization in Online Education Platforms: Harnessing the Power of Artificial Intelligence to Revolutioniz... Cycle 1: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education. Thought (score=0): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Narratives of Artificial Intelligence are formulated in section 0: AI-Driven Personalization in Online Education Platforms: Harnessing the Power of Artificial Intelligence to Revolutioniz... Cycle 1: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=0): Approval of article 1 of the paper.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education. Thought (score=0): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis Thought (score=1.00): Initial Analysis",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education. Thought (score=0.00): Initial Analysis",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Adherence to Artificial Intelligence is an initial analysis of the impact of artificial intelligence on online education.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R005.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1. a paper based on a model of dance performance. 2. Confidence score (0-1) 3. Key reasons for the decision"
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A conceptual approach to analysis of a model of dance performance.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "LSTM-based averaging approach to a model of dance performance.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): LSTM-based symphony analysis of a model of dance performance.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Review of the paper's observations and their impact on dance performance in the context of a model of dance performance.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "LSTM-based symphony analysis of a model of dance performance.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "LSTM-based symphony analysis of a model of dance performance.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Reflecting the presence of a model of dance performance in relation to a model of dance performance.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Analyzing a novel way to analyze the symphony.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "I am interested in the results of the LSTM-based symphony analysis.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=10.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a",
+                    "score": 1,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "LSTM-based symphony analysis of a model of dance performance.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Reflecting the presence of a model of dance performance in relation to a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (s",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Review of the paper's observations and their impact on dance performance in the context of a model of dance performance. Thought (score=1.00): Initial Analysis Thought (score=1.00): A conceptual approach to analysis of a model of dance performance. Thought (score=1.00): LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LSTM-based symphony analysis of a model of dance performance. Thought (score=1.00): A novel method to analyze the symphony is to analyze an LS",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R006.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1. Whether or not the paper is publishable (no)"
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A review of the initial analysis of MLB-YouTube",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Analysis of Baseball Game Recordings",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought and initial analysis.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought and preliminary analysis. Thought: Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game",
+                    "score": 1,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "A review of MLB-YouTube, a new and comp... Cycle 2: Analyze the paper considering previous thoughts: Thought and initial analysis. Thought and initial analysis, and statistical analysis, are the most important tool for determining the results of baseball-game recordings.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought and initial analysis",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought and initial analysis. Thought (score=1.00): Statistical Analysis of Baseball Game Recordings.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Statistical Analysis of Baseball Game Recordings",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought and initial analysis. Thought (score=1.00): Analysis of Baseball Game Recordings",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought and initial analysis. Thought and initial analysis. Thought and initial analysis. Thought and initial analysis. Thought and initial analysis. Thought and initial analysis. Thought and initial analysis.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought and initial analysis. Thought and initial analysis. Thought and initial analysis; statistical analysis; and statistical analysis; statistical analysis of baseball game recordings.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Statistical Analysis of Baseball Game Recordings",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball Game Recordings, Statistical Analysis of Baseball",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "While there are several studies of baseball game recordings cited, it is not clear whether the results were accurate or incomplete .",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R007.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "Preparation of experimental and future food models: a review of the metafood challenge to a metafood challenge",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A review of the metafood challenge techniques and outcomes.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "A review of the 3D food model of food and its implications for food models and model implementation.",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "0: Advancements in 3D food modeling: A review of the metafood challenge techniques and outcomes.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "A review of 3D food modeling using the meta-food challenge and meta-food challenge.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): 0 : Advancements in 3D food modeling and its implications for food models and model implementation.",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): 3D food modeling and its implications for food models and model implementation.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Statistical analysis of 3D food modeling: a review of the metafood challenge techniques and outcomes",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Review of the MetaFood Challenge Techniques and Outcomes",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "A review of the 3D food modeling and its implications for food models and model implementation.",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=0): 0: Advancements in 3D food modeling and its implications for food models and model implementation.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The paper focuses on the concept of 3D food modeling and its implications for food models and model implementation.",
+                "score": 1,
+                "children": [
+                  {
+                    "content": "3D food modeling and its implications for food models and model implementation",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Global Foods and Model Implementation : A Review of the MetaFood Challenge Techniques and Outcomes",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R008.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Analytical analysis of the pharmacological study of a non-pharmacokinetics study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A case study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): The paper's preliminary findings: a case study.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The evidence is based on the preliminary findings: a case study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Identifying the paper's preliminary findings: a case study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A case study.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Identifying the paper's preliminary findings: a case study.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=1.00): The evidence is based on the preliminary findings: a case study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A case study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Identifying the paper's preliminary findings: a case study.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): The paper's preliminary findings: A case study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A case study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Identifying the paper's preliminary findings: a case study.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R009.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "Cycle 1: Analyze the paper considering previous thoughts:"
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "The author of this study is John McKay, C.D.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Observations of the proposed strategy in the field of the study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Consider the implications of the proposed strategy in the field of the study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Review of the proposed strategy in the field of the study",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The author of this study is John McKay, C.D.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): The author of this study is John McKay, C.D. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "The study demonstrates that inc... Cycle 1: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Observations of the proposed strategy in the field of the study.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Review of the proposed strategy in the field of the study",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Review of the proposed strategy in the field of the study",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Review of the proposed strategy in the field of the study.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study. Thought (score=1.00): Review of the proposed strategy in the field of the study.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R010.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A pilot study in a naturalisti [D. et al., 2011]",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "[D. et al., 2011]",
+                "score": 0.5,
+                "children": [
+                  {
+                    "content": "Thought (score=0.60): [D. et al., 2011]",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=0.05): A pilot study in a Naturalisti [D. et al., 2011] (http://www.nabc.org/problemset/problem/482/Plinic/Bossa/obec/aspy//library/poetry/articles/10065/apology/instructi/A.PeterDey:_advice-advanced/2010.pdf)",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "[D. et al., 2011]",
+                "score": 0.5,
+                "children": [
+                  {
+                    "content": "Thought (score=0): A pilot study in a Naturalisti [D. et al., 2011] (http://www.nabc.org/problemset/problem/482/Plinic/Bossa/obec/aspy//library/poetry/articles/10065/apology/instructi/A.PeterDey:_advice-advanced/2010.pdf)",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=0.0): A pilot study in a Naturalisti [D. et al., 2011]",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A pilot study in a Naturalisti",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "[D. et al., 2011]",
+                "score": 0.5,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A pilot study in a Naturalisti [D. et al., 2011]",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=0.05): A pilot study in a Naturalisti [D. et al., 2011] (http://www.nabc.org/problemset/problem/482/Plinic/Bossa/obec/aspy//library/poetry/articles/10065/apology/instructi/A.PeterDey:_advice-advanced/2010.pdf)",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "[D. et al., 2011]",
+                "score": 0.5,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Identifying Medication Usage in Parkinson\u2019s Disease Through Multi-modal Indoor Positioning: A Pilot Study in a Naturalisti",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): [D. et al., 2011] Thought (score=1.00): [D. et al., 2011]",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R011.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "0: Addressing Popularity Bias with Popularity-Conscious Alignment and Contrastive Learning Abstract Collaborative Filtering... Cycle 1: Analyze the paper considering previous thoughts: Thought (score=0.00): Initial Analysis:",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "The paper focuses on the author's argumentative approach to the concept of popularity, such as participation in the debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A preliminary analysis of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The paper contains a preliminary analysis of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Review the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "The paper focuses on the author's argumentative approach to the concept of popularity, such as participation in the debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Review of the paper.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1.00): Review of the author's argumentative approach to the concept of popularity, such as participation in debates about popularity and the common good, and the question of what is and does not serve as a basis for the debates about the underlying idea. Thought (score=1",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R012.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A theoretical framework is proposed for designing neural networks.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A theoretical framework is proposed for designing neural networks for the dage factor.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "A method for neural networks using lbi-flint factors.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "The paper presents an approach for designing neural networks for the dage factor.",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method",
+                    "score": 0.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                    "score": 0.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor. Thought (score=1.00): A method for determining the lbi-flint factor for the lbi-flint factor for the lbi-flint factor.",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R013.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "a meta-analysis of the ReLU Networks network",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "A review of the paper, with the results of a qualitative analysis, is the first review of a study and the first review of a conceptual approach to disseminating the literature.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "A qualitative analysis of the ReLU Networks network.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A review of the paper, with the results of a qualitative analysis, is the first review of a study and the first review of a conceptual approach to disseminating the literature.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "While exploring the study's methodology, we analyze the main components of the ReLU Networks network, including the generalization of ReLU Networks via restricted Isometry and Norm Concentration, and achieving tenfold improvements to the paper.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Reviews' perspectives on a study of the ReLU Networks Network.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Reviewers' perspectives on a study of the ReLU Networks network.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks network.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Reviewers' perspectives on a study of the ReLU Networks Network.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R014.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1. Abstract - Abstract: a paper analyzing micro-aqueducts and micro-aqueducts for the study of micro-aqueducts and micro-aqueducts for the study of micro-aqueducts and micro-aqueducts for the study."
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A: Inquiry on the main components of the proposed approach for the study of micro-aqueducts and micro-aqueducts for the study.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "0: Addressing Min-Max Challenges in Nonconvex-Nonconcave Problems with Solutions Exhibiting Weak Minty Properties",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): 0: Addressing problems of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Based on a case study, the paper analyzes the problem of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "The paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): 0",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Hypothesis: Nonconvex-nonconcave solutions are designed to address the problem of the solution.",
+                    "score": 0.5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): 0",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): 0 Thought (score=1.00): 0 Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a",
+                    "score": 0.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case",
+                    "score": 0.5,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case study, the paper analyzes the problems of the nonconvex-nonconcave solution with a generalization of the solution's problems. Thought (score=1.00): Based on a case",
+                    "score": 0.5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "file": "train_papers\\R015.pdf",
+    "result": {
+      "decision": {
+        "publishable": false,
+        "confidence": 0.8,
+        "reasons": "1. a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. 2. Confidence score (0-1) 3. Key reasons for the decision"
+      },
+      "thought_tree": {
+        "content": "Initial Analysis",
+        "score": 0.0,
+        "children": [
+          {
+            "content": "A qualitative analysis of the impact of diffusion on the interdisciplinary development of the concept of a globalization of the oblique symmetry of a symmetrical symmetry.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Inductive analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                    "score": 1.0,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "A qualitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: Inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00)",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought (score=1.00): A qualitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content": "A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+            "score": 1.0,
+            "children": [
+              {
+                "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought (score=1.00)",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                    "score": 1.0,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content": "Thought (score=1.00): A quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion.",
+                "score": 1.0,
+                "children": [
+                  {
+                    "content": "Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence",
+                    "score": 1,
+                    "children": []
+                  },
+                  {
+                    "content": "Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence of denoising diphenylation probabilistic models: inductive analysis of probability and probability in a linear fashion. Thought is a quantitative analysis of the convergence",
+                    "score": 1,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
